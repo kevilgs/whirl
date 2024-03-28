@@ -9,7 +9,7 @@
   grid-template-columns: repeat(5, 10px);
   height: 50px; }
   .equalizer div {
-    background: -webkit-gradient(linear, left bottom, left top, from(green), color-stop(yellow), to(red));
+    background: -webkit-gradient(linear, left bottom, left top, from(white), color-stop(sky blue), to(blue));
     background: linear-gradient(0deg, green, yellow, red);
     height: 100%;
     -webkit-animation: equalize 2s infinite;
